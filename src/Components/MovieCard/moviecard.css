@@ -1,0 +1,10 @@
+.MovieCard {
+  background-color: black;
+  color: white;
+  width: 400px;
+  padding: 10px;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+  flex-wrap: wrap;  
+}
